@@ -1,0 +1,174 @@
+/* CSS Document */
+@font-face
+{
+	font-family: myfirstfont;
+	src: url(../font/MinecraftTen-VGORe.ttf);
+}
+.wrapper
+{
+	width: 1800px;
+	height: 1600px;
+	background: #3E0405;
+	
+		
+}
+.header
+{
+	width: 1800px;
+	height: 200px;
+	background: #7E65E1;
+	
+		
+}
+.header .logo
+{
+	width: 400px;
+	height: 200px;
+	background: #96595A;
+	float: left;
+	
+		
+}
+.header .menu
+{
+	width: 1400px;
+	height: 200px;
+	float: right;
+	background: #FCFCFC;
+	
+		
+}
+.menu ul li
+{
+	list-style: none;
+	width: 200px;
+	height: 50px;
+	float: left;
+	text-align: center;
+	margin-top: 40px;
+	padding-top: 30px;
+	border-radius: 30px;
+	margin-left: 50px;
+}
+.menu ul li:hover
+{
+	border: 3px solid #D59334;
+}
+.menu ul li a
+{
+	text-decoration: none;
+	font-family: myfirstfont;
+	color: #000000;
+
+}
+.menu ul li a:hover
+{
+	
+}
+.logo img
+{
+	width: 400px;
+	height: 200px;
+}
+.content
+{
+	width: 1800px;
+	height: 800px;
+	background: #62E4B9;
+	
+		
+}
+.content .left
+{
+	width: 1200px;
+	height: 800px;
+	background: #243CAB;
+	float: left;
+}
+.left img
+{
+	width: 1200px;
+	height: 800px;
+}
+.content .right
+{
+	width: 480px;
+	height: 680px;
+	background: #FFFFFF;
+	float: right;
+	padding: 40px;
+	font-size: 22px;
+	text-align: center;
+	border: 20px solid #000000;
+	font-family: myfirstfont;
+}
+.footer
+{
+	width: 1800px;
+	height: 450px;
+	background: #FFFFFF;
+	
+}
+.footer .stream
+{
+	
+	width: 540px;
+	height: 300px;
+	background: #000000;
+	float: left;
+	text-align: center;
+	font-family: myfirstfont;
+	padding: 30px;
+	font-size: 20px;
+	margin-top:  50px;
+	border-radius: 50px;
+	color: #FFFFFF;
+	
+}
+
+.stream img
+{
+	width: 500px;
+	height: 300px;
+}
+.end
+{
+	width: 1800;
+	height: 150px;
+	background: #000000;
+	color: #FFFCFC;
+	font-family: myfirstfont;
+	font-size: 20px;
+	text
+	
+}
+.icon img
+{
+	width: 40px;
+	height: 40px;
+	padding:  20px;
+	margin-left: 100px;
+}
+.end .icon
+{
+	
+	width: 300px;
+	height: 200px;
+	background: #000000;
+	float: left;
+}
+.end .link
+{
+	
+	width: 1500px;
+	height: 200px;
+	background: #000000;
+	float: right;
+	font-family: myfirstfont;
+	font-size: 17px;
+}
+.link h2
+
+{
+	margin-top:37px;
+}
